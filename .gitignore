@@ -1,0 +1,7 @@
+data/
+runs/
+_smoke/
+__pycache__/
+*.pt
+testsets/clean/
+testsets/degraded/
